@@ -2,7 +2,7 @@
 ANON_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ba87c58f01a6fcb5ef512.jpg"
   
 
-anon = "✯ 𓆩🖤𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦𓆩🖤𓆪 ✯\n\n"
+anon = "✯ 𓆩🖤 𝐋𝐔𝐂𝐊𝐘 🖤𓆪 ✯\n\n"
 anon += f"═══════════════════\n"
 anon += f"• **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.9.6`\n"
 anon += f"• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
@@ -27,11 +27,11 @@ async def alive(event):
                                   caption=anon,
                                   buttons=[
         [
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/DevilsHeavenMF"),
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/terayaarhoomai"),
         Button.url("• ʀᴇᴘᴏ •", "https://telegra.ph/file/b2a4f66615d038f77bb46.mp4")
         ],
         [
-        Button.url("• ᴏᴡɴᴇʀ •", "https://t.me/anonymous_was_bot")
+        Button.url("• ᴏᴡɴᴇʀ •", "https://t.me/cute_boy701")
         ]
         ]
         )
