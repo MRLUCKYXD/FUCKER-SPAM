@@ -3,7 +3,7 @@
 </p>
 
 ### 🥵 ꜰᴜᴄᴋᴇʀ ✘ sᴘᴀᴍ​
-  <a href="https://github.com/AnonymousBoy1025"><img alt="Website" src="https://img.shields.io/badge/𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦-blue"></a>
+  <a href="https://github.com/Mrvk1703"><img alt="Website" src="https://img.shields.io/badge/LUCKY-purple"></a>
  
 [![Stars](https://img.shields.io/github/stars/AnonymousBoy1025/SpamRobo?style=social)](https://github.com/AnonymousBoy1025/SpamRobo/stargazers)
   [![Forks](https://img.shields.io/github/forks/AnonymousBoy1025/SpamRobo?style=social)](https://github.com/AnonymousBoy1025/SpamRobo/fork)
