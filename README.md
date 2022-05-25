@@ -24,7 +24,7 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnonymousBoy1025/SpamRobo)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mrvk1703/SpamRobo)
 
 
 ### 🙄 ɢᴇɴᴇʀᴀᴛᴇ ᴛᴇʟᴇᴛʜᴏɴ sᴇssɪᴏɴ
