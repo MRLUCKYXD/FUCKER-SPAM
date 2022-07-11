@@ -3,10 +3,10 @@
 </p>
 
 ### 🥵 ꜰᴜᴄᴋᴇʀ ✘ sᴘᴀᴍ​
-  <a href="https://github.com/Mrvk1703"><img alt="Website" src="https://img.shields.io/badge/LUCKY-purple"></a>
+  <a href="https://github.com/Mrvk1703"><img alt="Website" src="https://img.shields.io/badge/LUCKY-pink"></a>
  
-[![Stars](https://img.shields.io/github/stars/AnonymousBoy1025/SpamRobo?style=social)](https://github.com/AnonymousBoy1025/SpamRobo/stargazers)
-  [![Forks](https://img.shields.io/github/forks/AnonymousBoy1025/SpamRobo?style=social)](https://github.com/AnonymousBoy1025/SpamRobo/fork)
+[![Stars](https://img.shields.io/github/stars/mrluckyxd/FUCKER-SPAM?style=social)](https://github.com/mrluckyxd/FUCKER-SPAM/stargazers)
+  [![Forks](https://img.shields.io/github/forks/mrluckyxd/FUCKER-SPAM?style=social)](https://github.com/mrluckyxd/FUCKER-SPAM/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
@@ -24,7 +24,7 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mrvk1703/SpamRobo)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mrluckyxd/FUCKER-SPAM)
 
 
 ### 🙄 ɢᴇɴᴇʀᴀᴛᴇ ᴛᴇʟᴇᴛʜᴏɴ sᴇssɪᴏɴ
